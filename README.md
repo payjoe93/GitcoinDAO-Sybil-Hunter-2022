@@ -1,7 +1,7 @@
 # GitcoinDAO-Sybil-Hunter-2022
 Design 5 POAP "Proof Of Attendance Protocol" for the Sybil Hunter Challenge event happening on GitcoinDAO.
 
-I have make 2 version of this POAP. First is POAP with "Rank Text" and "Without Rank Text". Preview in dark & light background is below.
+I have make 2 version of this POAP. First is POAP with "Rank Text" and "Without Rank Text". Preview in dark & light background is below. In RAW directories, there's animated POAP but still on mp4 format. I can make those to APNG format but the size will be 500kb - 1mb. If you want me to create animated POAP with APNG format, DM me on discord or telegram.
 
 
 Light Background
